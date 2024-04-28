@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-gen-app",
+    "name": "Spectra",
     "slug": "react-gen-app",
+    "scheme": "spectra",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
