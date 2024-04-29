@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Spectra",
-    "slug": "react-gen-app",
-    "scheme": "spectra",
+    "name": "Aora",
+    "slug": "Stock-Videos-Social-Media-App",
+    "scheme": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
