@@ -3,7 +3,11 @@
 Aora is a dynamic mobile application built with React Native and Expo, designed to provide users with a seamless video browsing & sharing experience.
 
 
-https://github.com/Ayan-M-Dev/Aora-Gram-Application/assets/101629997/eb9331af-0f59-4c67-9dc1-57d4e3b44479
+https://github.com/Ayan-M-Dev/Aora-Gram-Application/assets/101629997/93aeed7e-3fbc-450a-b4c9-dac655a74076
+
+
+
+
 
 
 
