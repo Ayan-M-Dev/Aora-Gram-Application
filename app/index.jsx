@@ -30,12 +30,6 @@ export default function App() {
             <Text className="text-3xl text-white font-bold text-center">
               Discover Endless Possibilities with {' '}<Text className="text-secondary-200">Aora</Text>
             </Text>
-
-            <Image
-              source={images.path}
-              className="w-[136px] h-[15px] align-bottom-2 -right-52"
-              resizeMode="contain"
-            />
           </View>
 
             <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
