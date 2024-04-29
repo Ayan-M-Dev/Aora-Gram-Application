@@ -49,5 +49,3 @@ Download the Expo Go app onto your device, then use it to scan the QR code from 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or have suggestions for improvements.
-
-## License
